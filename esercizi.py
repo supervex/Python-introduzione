@@ -1,7 +1,7 @@
 #es 1
 nome = "alberto"
 eta = 25
-hobby = "carte","giochi","figa"
+hobby = "carte","Video giochi","amici"
 print(f"mi chiamo {nome}, ho {eta} anni e i miei hobby sono: {hobby}")
 #es 2
 def controlla_pari(n):
